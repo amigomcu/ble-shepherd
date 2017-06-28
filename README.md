@@ -37,6 +37,7 @@ With **ble-shepherd**, you can get rid of such networking things and focus on yo
     - [BLE4.0 USB adapter](https://github.com/sandeepmistry/node-bluetooth-hci-socket#compatible-bluetooth-40-usb-adapters)
     - CC2640/CC2650 (Not tested yet. I don't have the kit.)  
 
+FIXME,TODO,NOTE,MODIFY:steven,28/06/17 09:50:47
 <br />
 
 ## Usage  
